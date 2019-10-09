@@ -1,2 +1,4 @@
-# BookFitz
-Form to manage requests to book a room in Fitzpatrick Hall.
+## Book a room in Fitz
+
+[Website](https://angiefranco.github.io/BookFitz/) for booking a room in Fitzpatrich Hall of Engineering.
+
