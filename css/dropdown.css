@@ -25,7 +25,9 @@ span.choose {
   border-radius: 5px;
   box-shadow: 0 0 2px rgb(204, 204, 204);
   transition: all .5s ease;
-  position: relative;
+  position: absolute;
+  right: 200px
+  top: 200px
   font-size: 14px;
   color: #474747;
   height: 100%;
