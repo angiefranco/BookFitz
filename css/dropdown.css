@@ -13,7 +13,7 @@ span.choose {
 }
 .container {
   width: 500px;
-  margin: 50px auto 0;
+  margin: 200px;
   text-align: center
 }
 
@@ -65,8 +65,8 @@ span.choose {
     position: absolute;
     background-color: #fff;
     width: 100%;
-    left: 50;
-    margin-top: 1px;
+    left: 200;
+    margin-top: 100px;
     box-shadow: 0 1px 2px rgb(204, 204, 204);
     border-radius: 0 1px 5px 5px;
     overflow: hidden;
